@@ -1,1 +1,2 @@
-print("Bom dia!\nMeu nome é José das Couves")
+print("Bom dia, ", end = "")
+print("José das Couves")
