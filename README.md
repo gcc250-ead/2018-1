@@ -8,7 +8,7 @@ Códigos utilizados nas vídeo-aulas da disciplina GCC250-EaD no período 2018/1
 * [Manipulação de strings](https://github.com/gcc250-ead/2018-1/tree/master/Manipulacao%20de%20string).
 * [Operadores aritméticos](https://github.com/gcc250-ead/2018-1/tree/master/Operadores%20aritm%C3%A9ticos).
 * [Primeiro programa e saída padrão](https://github.com/gcc250-ead/2018-1/tree/master/Primeiro%20programa%20e%20sa%C3%ADda%20padr%C3%A3o).
-* [Função split](https://github.com/gcc250-ead/2018-1/tree/master/Vari%C3%A1veis).
+* [Função split](https://github.com/gcc250-ead/2018-1/tree/master/Fun%C3%A7%C3%A3o%20Split)
 * [Variáveis](https://github.com/gcc250-ead/2018-1/tree/master/Vari%C3%A1veis).
 
 
