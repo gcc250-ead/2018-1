@@ -18,9 +18,10 @@ Códigos utilizados nas vídeo-aulas da disciplina GCC250-EaD no período 2018/1
 ### Semana 22/04 - 28/04
 * [Estrutura de repetição - while](https://github.com/gcc250-ead/2018-1/tree/master/Estrutura%20de%20repeti%C3%A7%C3%A3o%20com%20while)
 * [Contadores, acumuladores e estrutura de repetição aninhada](https://github.com/gcc250-ead/2018-1/tree/master/Contadores%2C%20acumuladores%20e%20estrutura%20de%20repeticao%20aninhada)
-
-
-
+### Semana 29/04 - 05/05
+* Modularização - Funções - *em breve*
+### Semana 06/05 - 12/05
+* [Modularização - Procedimentos](https://github.com/gcc250-ead/2018-1/tree/master/Modulariza%C3%A7%C3%A3o%20-%20Procedimentos)
 
 
 
