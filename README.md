@@ -23,8 +23,6 @@ Códigos utilizados nas vídeo-aulas da disciplina GCC250-EaD no período 2018/1
 ### Semana 06/05 - 12/05
 * [Modularização - Procedimentos](https://github.com/gcc250-ead/2018-1/tree/master/Modulariza%C3%A7%C3%A3o%20-%20Procedimentos)
 ### Semana 13/05 - 19/05
-* Modularização - Passagem de parâmetros: **em breve**
+* [Modularização - Exemplos](https://github.com/gcc250-ead/2018-1/tree/master/Exemplos%20-%20Modulariza%C3%A7%C3%A3o)
 ### Semana 20/05 - 26/05
 * [Listas - homogêneas e unidimensionais](https://github.com/gcc250-ead/2018-1/tree/master/Listas%20-%20homog%C3%AAneas%20e%20unidimensionais)
-
-
