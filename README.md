@@ -32,4 +32,4 @@ Códigos utilizados nas vídeo-aulas da disciplina GCC250-EaD no período 2018/1
 * [Listas - passagem por parâmetro e cópia](https://github.com/gcc250-ead/2018-1/tree/master/Listas%20-%20passagem%20como%20parametro%20e%20copia)
 * [Listas - homogêneas e bidimensionais - matrizes](https://github.com/gcc250-ead/2018-1/tree/master/Listas%20-%20homogeneas%20e%20bidimensionais)
 ### Semana 17/06 - 23/06
-* [Dicionário de listas](https://github.com/gcc250-ead/2018-1/tree/master/Listas%20-%20passagem%20como%20parametro%20e%20copia)
+* [Dicionário de listas](https://github.com/gcc250-ead/2018-1/tree/master/Dicionario%20de%20listas)
